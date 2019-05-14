@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295147691381",
+    "firebase_url": "https://kikimusicplayer.firebaseio.com",
+    "project_id": "kikimusicplayer",
+    "storage_bucket": "kikimusicplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295147691381:android:63351ccbcd2f757b",
+        "android_client_info": {
+          "package_name": "com.example.musiclogin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295147691381-n8jf2kea8a13o0d5t9e2ilgos7lf0qhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjfKwo90YoinKpgnyuuuAqrqN8aSolgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295147691381-n8jf2kea8a13o0d5t9e2ilgos7lf0qhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
